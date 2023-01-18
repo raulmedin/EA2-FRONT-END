@@ -1,5 +1,4 @@
 // console.log("acceso establecido");
-
 function valForm(){
     console.log("accesoo establecido a la funcion");
     var vNom =$('#nombre').val();
@@ -35,6 +34,7 @@ function valForm(){
             Err_contenido(" correo, Formato no valido");
             return false;
         }
+
 
     } 
 
